@@ -1,0 +1,19 @@
+{
+    "Name": "Processing of frequency and location in human subcortical auditory structures",
+    "BIDSVersion": "1.1.0",
+    "License": "",
+    "Authors": [
+        "Michelle Moerel",
+	"Federico De Martino",
+	"Kamil Ugurbil",
+	"Essa Yacoub",
+	"Elia Formisano"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": ["NWO Rubicon 446-12-010"],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": ""
+}
